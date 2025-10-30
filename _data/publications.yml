@@ -6,8 +6,8 @@ main:
     conference: "Eighteenth European Workshop on Reinforcement Learning, 2025."
     pdf: "https://openreview.net/pdf?id=TitmKQCIw0"
     code: "https://github.com/ai-fm/missingness-pomdps"
-    # bibtex: ".assets/files/2024_External_Validation_ICU.bib"
-    image: "./assets/img/2024_External_Validation_ICU.png"
+    bibtex: "https://openreview.net/forum?id=TitmKQCIw0"
+    image: "./assets/img/2025_Missingness_MDPs_EWRL.png"
     notes: ""
 
   - title: "External validation of AI-based scoring systems in the ICU: a systematic review and meta-analysis"
