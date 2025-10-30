@@ -1,5 +1,15 @@
 main:
 
+  - title: "Missingness-MDPs: Bridging the Theory of Missing Data and POMDPs"
+    authors: "<strong>Joshua Wendland</strong>, Markel Zubia, Roman Andriushchenko, Maris FL Galesloot, Milan Ceska, Henrik von Kleist, Thiago D Simão, Maximilian Weininger, Nils Jansen"
+    conference_short: "EWRL"
+    conference: "Eighteenth European Workshop on Reinforcement Learning, 2025."
+    pdf: "https://openreview.net/pdf?id=TitmKQCIw0"
+    code: "https://github.com/ai-fm/missingness-pomdps"
+    # bibtex: ".assets/files/2024_External_Validation_ICU.bib"
+    image: "./assets/img/2024_External_Validation_ICU.png"
+    notes: ""
+
   - title: "External validation of AI-based scoring systems in the ICU: a systematic review and meta-analysis"
     authors: "Patrick Rockenschaub, Ela Marie Akay, Benjamin Gregory Carlisle, Adam Hilbert, <strong>Joshua Wendland,</strong>, Falk Meyer-Eschenbach, Anatol-Fiete Näher, Dietmar Frey, Vince Istvan Madai"
     conference_short: "BMC MIDM"
