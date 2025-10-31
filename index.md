@@ -6,7 +6,7 @@ layout: homepage
 
 I am a PhD candidate at Ruhr University Bochum supervised by [Nils Jansen](https://nilsjansen.org/) at the chair of [Artificial Intelligence and Formal Methods](https://informatik.rub.de/en/research/chairs/aifm/).
 
-My research focusses on reinforcement learning and planning settings, especially dealin combination with the theory of Missing Data and Causality. My work aims to improve trustworthiness in AI, meaning that I aim for formal guarantees and explainability and therefore like to consider safety critical scenarios.
+My research focusses on reinforcement learning and planning settings, especially in combination with the theory of Missing Data and Causality. My work aims to improve trustworthiness in AI, meaning that I aim for formal guarantees and improved explainability.
 
 I also co-organize the [AI Lecture Series](https://informatik.rub.de/ai-lecture-series/) @ RUB.
 
