@@ -19,17 +19,19 @@
 
 <h4 style="margin:0 10px 0;">Reviewer Project International </h4>
 <p style="margin:0 10px 0;">
-Reviewer for application of research grants as part of <a href="https://www.research-school.rub.de/doctoral-researchers/funding-for-internationalization/project-international"><italics>Project International</italics></a> for the RUB Research School.
+Reviewer for application of research grants as part of <a href="https://www.research-school.rub.de/doctoral-researchers/funding-for-internationalization/project-international"><italic>Project International</italic></a> for the RUB Research School.
 </p>
 
-<h4 style="margin:0 10px 0;"></h4>
+<h4 style="margin:0 10px 0;">Quality Improvement Commission</h4>
 <p style="margin:0 10px 0;">
 Member of the quality improvement commission of the Faculty of Computer Science at RUB responsible for improving quality of education and distribution of funds (since Sep 2025).
 </p>
 
 
 ## Teaching
-
+<p style="margin:0 10px 0;">
+All teaching @ RUB. <italic>SS = Summer Semester, WS = Winter Semester</italic>
+</p>
 <ul style="margin:0 0 5px;">
   <!-- <li><a href="https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/"><autocolor>18th European Workshop on Reinforcement Learning (EWRL) 2025</autocolor></a></li> -->
   <li>Seminar on Safe and Reliable AI - organization, student supervision - SS24</li>
