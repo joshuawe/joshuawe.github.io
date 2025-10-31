@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at Ruhr University Bochum supervised by [Nils Jansen](https://nilsjansen.org/) at the chair of [Artificial Intelligence and Formal Methods](https://informatik.rub.de/en/research/chairs/aifm/).
+I am a PhD candidate at Ruhr University Bochum supervised by [Nils Jansen](https://nilsjansen.org/) at the chair of [Artificial Intelligence and Formal Methods](https://informatik.rub.de/en/research/chairs/aifm/).
 
 ## Research Interests
-
+WIP
 - **Machine Learning:** Reinforcement Learning, Planning, Causality
 
 ## News

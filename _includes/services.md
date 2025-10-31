@@ -19,7 +19,7 @@
 
 <h4 style="margin:0 10px 0;">Reviewer Project International </h4>
 <p style="margin:0 10px 0;">
-Reviewer for application of research grants as part of <a href="https://www.research-school.rub.de/doctoral-researchers/funding-for-internationalization/project-international"><italic>Project International</italic></a> for the RUB Research School.
+Reviewer for application of research grants as part of <a href="https://www.research-school.rub.de/doctoral-researchers/funding-for-internationalization/project-international"><em>Project International</em></a> for the RUB Research School.
 </p>
 
 <h4 style="margin:0 10px 0;">Quality Improvement Commission</h4>
@@ -30,17 +30,17 @@ Member of the quality improvement commission of the Faculty of Computer Science 
 
 ## Teaching
 <p style="margin:0 10px 0;">
-All teaching @ RUB. <italic>SS = Summer Semester, WS = Winter Semester</italic>
+All teaching @ RUB. <em>SS = Summer Semester, WS = Winter Semester</em>
 </p>
 <ul style="margin:0 0 5px;">
   <!-- <li><a href="https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/"><autocolor>18th European Workshop on Reinforcement Learning (EWRL) 2025</autocolor></a></li> -->
-  <li>Seminar on Safe and Reliable AI - organization, student supervision - SS24</li>
-  <li>Lab Course: Challenging Problems in Reinforcement Learning - teaching, organization, student supervision - WS24</li>
-  <li>Seminar on Safe and Reliable AI - student supervision - WS24</li>
-  <li>Seminar on Safe and Reliable AI - student supervision - SS25</li>
-  <li>Programming for Modern Machine Learning - teaching lecture on Deep RL, student supervision - SS25</li>
-  <li>Seminar on Safe and Reliable AI - student supervision - WS25</li>
-  <li>Lab Course: Challenging Problems in Reinforcement Learning - teaching, organization, student supervision - WS25</li>
-  <li>Programming for Modern Machine Learning - teaching lecture on Deep RL, student supervision - WS25</li>
+  <li><strong>Seminar on Safe and Reliable AI</strong> - organization, student supervision - SS24</li>
+  <li><strong>Lab Course: Challenging Problems in Reinforcement Learning</strong> - teaching, organization, student supervision - WS24</li>
+  <li><strong>Seminar on Safe and Reliable AI</strong> - student supervision - WS24</li>
+  <li><strong>Seminar on Safe and Reliable AI</strong> - student supervision - SS25</li>
+  <li><strong>Programming for Modern Machine Learning</strong> - teaching lecture on Deep RL, student supervision - SS25</li>
+  <li><strong>Seminar on Safe and Reliable AI</strong> - student supervision - WS25</li>
+  <li><strong>Lab Course: Challenging Problems in Reinforcement Learning</strong> - teaching, organization, student supervision - WS25</li>
+  <li><strong>Programming for Modern Machine Learning</strong> - teaching lecture on Deep RL, student supervision - WS25</li>
   <li></li>
 </ul>
