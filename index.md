@@ -10,9 +10,10 @@ My research focusses on reinforcement learning and planning settings, especially
 
 I also co-organize the [AI Lecture Series](https://informatik.rub.de/ai-lecture-series/) @ RUB.
 
-## Research Interests
-WIP
-- **Machine Learning:** Reinforcement Learning, Planning, Causality
+## Interests
+
+- **AI/Machine Learning:** Reinforcement Learning, Planning, Causality, Explainability, Alignment Problem
+- **Data Visualization:** Visual information >> tabular/textual information!
 
 ## News
 
